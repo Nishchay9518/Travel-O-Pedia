@@ -1,5 +1,8 @@
 # Travel-O-Pedia
 A responsive website interface with interactive animations and user form validation. UI designs are based on neomorphism and glassmorphism.
-Also check the responsiveness of the website. 
+Hamburger menu added for width less than 500px. 
 
-Note: 'travel.html' is the index page.
+## You can check the website here
+### https://travel-o-pedia.netlify.app/
+
+
